@@ -33,4 +33,4 @@ starTrek.pop()//remove Scotty as he is last
 starTrek.pop()//remove McCoy
 starTrek.push('Scotty')//add back Scotty
 
-console.log(helperFuncs.display(starTrek))
+//console.log(helperFuncs.display(starTrek))
