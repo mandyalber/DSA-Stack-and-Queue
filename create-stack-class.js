@@ -7,4 +7,6 @@ starTrek.push('Spock')
 starTrek.push('McCoy')
 starTrek.push('Scotty')
 
-console.log(starTrek)
+//console.log(starTrek)
+
+module.exports = starTrek
