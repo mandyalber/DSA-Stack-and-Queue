@@ -9,6 +9,7 @@ Create a stack called starTrek and add Kirk, Spock, McCoy, and Scotty to the sta
 ### 2. Useful methods for a stack
 
 Using the Stack class above, implement the following helper functions outside of the class:
+
         peek(): allows you to look at the top of the stack without removing it
         
         isEmpty(): allows you to check if the stack is empty or not
